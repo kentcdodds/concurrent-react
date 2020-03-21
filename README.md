@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="https://codefund.io/properties/507/visit-sponsor">
-    <img src="https://codefund.io/properties/507/sponsor" />
-  </a>
-</p>
-
 # Concurrent React
 
 > Improving UX with a faster, more predictable app.
+
+> A new version of this project is available at:
+> https://github.com/kentcdodds/react-suspense
 
 👋 hi there! My name is [Kent C. Dodds](https://kentcdodds.com)! This is a
 workshop repo to teach you the fundamentals of React's (EXPERIMENTAL)
