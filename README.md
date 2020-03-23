@@ -2,7 +2,7 @@
 
 > Improving UX with a faster, more predictable app.
 
-> A new version of this project is available at:
+> A NEW version of this project is available at:
 > https://github.com/kentcdodds/react-suspense
 
 👋 hi there! My name is [Kent C. Dodds](https://kentcdodds.com)! This is a
