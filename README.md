@@ -272,3 +272,5 @@ at kent@doddsfamily.us
   https://img.shields.io/codecov/c/github/kentcdodds/concurrent-react.svg?style=flat-square
 [coverage]: https://codecov.io/github/kentcdodds/concurrent-react
 [watchman]: https://facebook.github.io/watchman/docs/install.html
+
+<!-- build trigger: 1 -->
