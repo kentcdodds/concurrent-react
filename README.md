@@ -236,8 +236,8 @@ at kent@doddsfamily.us
 [git]: https://git-scm.com/
 [yarn]: https://yarnpkg.com/
 [build-badge]:
-  https://img.shields.io/travis/kentcdodds/concurrent-react.svg?style=flat-square&logo=travis
-[build]: https://travis-ci.org/kentcdodds/concurrent-react
+  https://img.shields.io/travis/com/kentcdodds/concurrent-react.svg?style=flat-square&logo=travis
+[build]: https://travis-ci.com/kentcdodds/concurrent-react
 [license-badge]:
   https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
 [license]:
